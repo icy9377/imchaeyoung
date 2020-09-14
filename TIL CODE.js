@@ -23,3 +23,4 @@
           var KFC잠실점 = KFC(26);
 
           dasdasss
+          skinnny home
