@@ -22,5 +22,6 @@
           
           var KFC잠실점 = KFC(26);
          beats
-         beastars
+         beastarsa
+         asdasdasd
           //
