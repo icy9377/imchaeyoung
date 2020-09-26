@@ -1,0 +1,21 @@
+{
+  "name": "projectchaeyoung",
+  "version": "1.0.0",
+  "description": "testarea",
+  "main": "TIL CODE.js",
+  "scripts": {
+    "start": "node index.js okay!",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icy9377/imchaeyoung.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icy9377/imchaeyoung/issues"
+  },
+  "homepage": "https://github.com/icy9377/imchaeyoung#readme",
+  "dependencies": {}
+}
